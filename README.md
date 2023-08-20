@@ -30,7 +30,7 @@ I am but a humble traveler, taking my first steps on a journey that may someday 
 <br /> <br /><br />
 
 ## Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=sajid365-sr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sajid365-sr&column=3&margin-w=15&margin-h=15&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid365-sr)](https://github.com/anuraghazra/github-readme-stats)
