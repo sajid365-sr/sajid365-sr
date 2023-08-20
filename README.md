@@ -33,10 +33,10 @@ I am but a humble traveler, taking my first steps on a journey that may someday 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sajid365-sr&column=3&margin-w=15&margin-h=15&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid365-sr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid365-sr)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid365-sr&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid365-sr&show_icons=true&count_private=true&theme=tokyonight)  
 <br />
 ![GitHub metrics](https://metrics.lecoq.io/sajid365-sr)  
 <br />
