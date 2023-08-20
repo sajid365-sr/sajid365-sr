@@ -1,7 +1,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQE6sxEeAfyI_Q/profile-displaybackgroundimage-shrink_350_1400/0/1682586247384?e=1698278400&v=beta&t=uL0LbBGr-LNhseBssTX-zt7w92l85Ptk-ciY5187jG0)
-
 ### Hi there 👋, I'm Sajid Sorker
 #### Web Developer
+
 
 In a world where technology reigns supreme, a visionary stands tall. I am Sajid Sorker, a master of the MERN stack and an artist of HTML, CSS, and JavaScript. Armed with the power of React and the elegance of Bootstrap and Tailwind, I forge ahead on my journey to unlock the full potential of web development.
 
@@ -27,10 +27,7 @@ Skills: REACT / JS / HTML / CSS / Node JS / Express JS / Next JS / Bootstrap / T
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajid365-sr&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajid365-sr)  
-
 ![GitHub metrics](https://metrics.lecoq.io/sajid365-sr)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sajid365-sr)  
 
-![Profile views](https://gpvc.arturio.dev/sajid365-sr)  
