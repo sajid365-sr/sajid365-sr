@@ -11,9 +11,9 @@ I am but a humble traveler, taking my first steps on a journey that may someday 
 
 Skills: REACT / JS / HTML / CSS / Node JS / Express JS / Next JS / Bootstrap / Tailwind / Firebase
 
-- 🔭 I’m currently working on Working on a tour management platform for a Facebook travel page. 
-- 🌱 I’m currently learning Next JS 
-- 👯 I’m looking to collaborate on github 
+- 🔭 I’m currently working on a tour management platform for a Facebook travel page. 
+- 🌱 I’m currently learning Next JS. 
+- 👯 I’m looking to collaborate on github and remote job opportunity. 
 - 💬 Ask me about Web Development 
 
 
