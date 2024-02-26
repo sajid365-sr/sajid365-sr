@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQE6sxEeAfyI_Q/profile-displaybackgroundimage-shrink_350_1400/0/1682586247384?e=1698278400&v=beta&t=uL0LbBGr-LNhseBssTX-zt7w92l85Ptk-ciY5187jG0)
+![Web Developer](https://drive.google.com/file/d/1hP2-WYNXvQeiY6Fogplwn6P99I6ISdoU/view?usp=drive_link)
 # Hello, I'm Sajid Sorker <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid365-sr&label=Profile%20views&color=0e75b6&style=flat" alt="sajid365-sr" /> </p>
 ## Passionate MERN Stack Developer 
 
