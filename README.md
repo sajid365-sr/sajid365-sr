@@ -1,5 +1,6 @@
-[<img src='https://ibb.co/sQbRcXs' alt='github'>]
-![Web Developer](https://ibb.co/sQbRcXs)
+<img src="https://i.ibb.co/q97jh2m/mern-stack-developer.png" alt="mern-stack-developer" border="0">
+
+
 # Hello, I'm Sajid Sorker <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid365-sr&label=Profile%20views&color=0e75b6&style=flat" alt="sajid365-sr" /> </p>
 ## Passionate MERN Stack Developer 
 
