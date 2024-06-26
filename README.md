@@ -1,13 +1,16 @@
+
 ![Web Developer](https://drive.google.com/file/d/1hP2-WYNXvQeiY6Fogplwn6P99I6ISdoU/view?usp=drive_link)
 # Hello, I'm Sajid Sorker <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid365-sr&label=Profile%20views&color=0e75b6&style=flat" alt="sajid365-sr" /> </p>
 ## Passionate MERN Stack Developer 
 
 
-In a world where technology reigns supreme, a visionary stands tall. I am Sajid Sorker, a master of the MERN stack and an artist of HTML, CSS, and JavaScript. Armed with the power of React and the elegance of Bootstrap and Tailwind, I forge ahead on my journey to unlock the full potential of web development.
+I am Sajid Sorker, a MERN stack developer with a robust background in web development. My expertise spans various tools and libraries, including Git, GitHub, and Next.js. I am continuously striving to build innovative solutions and contribute to the tech world.
 
-But my quest is not limited to mere web development. No, my sights are set on the horizon of tomorrow's technology, where the rain of innovation falls like a storm. Blockchain, Web 3.0, Metaverse, NFTs - these are the names that light my fire, driving me to pursue the future with fervor.
+Beyond my technical skills, I have an entrepreneurial mindset. I am constantly thinking about building brands and startups, driven by a passion for creating impactful projects. Currently, I am looking for remote web developer opportunities to expand my horizons and bring my skills to new challenges.
 
-I am but a humble traveler, taking my first steps on a journey that may someday lead me to the forefront of technological evolution. But for now, I stand tall, my passion for technology burning brighter than ever. I invite you to join me on this epic journey and to share in the rain of technology that will bless us all.
+In addition to my tech experience, I work as an Account Officer at Mutual Trust Bank Chatar Bazar ABC. This role has provided me with valuable knowledge in accounting, time management, customer handling, and professional communication. It has also enhanced my software skills and given me a deep understanding of the banking world.
+
+I am eager to leverage my combined expertise in technology and business to drive success in my future endeavors. Let's connect and explore how we can collaborate.
 <br />
 
 
@@ -16,13 +19,11 @@ I am but a humble traveler, taking my first steps on a journey that may someday 
 
 <br />
 
-
-- 🔭 I’m currently working on a tour management platform for a Facebook travel page. 
-- 🌱 I’m currently learning Next JS. 
 - 👯 I’m looking to collaborate on github and remote job opportunity. 
 - 💬 Ask me about Web Development 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajid365-sr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajid365-sr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajidsorker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sajid365_sr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sajid365_sr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Sajid-Sorker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20034263/sajid-sorker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCo9XC1dtH70QgNcumAmVPDA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sajidsorker.com/)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajid365-sr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajid365-sr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajidsorker) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sajid365_sr)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20034263/sajid-sorker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sajidsorker.com/)  
 
 
 ## Achievemnts:
